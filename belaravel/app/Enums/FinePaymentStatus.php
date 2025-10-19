@@ -2,7 +2,7 @@
 
 namespace App\Enums;
 
-enum findPaymentStatus: string
+enum finePaymentStatus: string
 {
     case PENDING = "Tertunda";
     case SUCCESS = "Sukses";
